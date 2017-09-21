@@ -1,0 +1,11 @@
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\bin\Debug\ColorsOfRainbow.exe.config
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\bin\Debug\ColorsOfRainbow.exe
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\bin\Debug\ColorsOfRainbow.pdb
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\obj\Debug\ColorsOfRainbow.csprojResolveAssemblyReference.cache
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\obj\Debug\ColorsOfRainbow.RainbowForm.resources
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\obj\Debug\ColorsOfRainbow.Properties.Resources.resources
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\obj\Debug\ColorsOfRainbow.csproj.GenerateResource.Cache
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\obj\Debug\ColorsOfRainbow.exe
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\ColorsOfRainbow\ColorsOfRainbow\obj\Debug\ColorsOfRainbow.pdb
