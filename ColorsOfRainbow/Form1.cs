@@ -121,7 +121,6 @@ namespace ColorsOfRainbow
         {
             ToolTip tooltip = new ToolTip();
             tooltip.SetToolTip(control, text);
-
         }
     }
 }

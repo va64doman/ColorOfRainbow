@@ -72,6 +72,11 @@ namespace ColorsOfRainbow
             {
                 Console.WriteLine("Error message is " + error.Message);
             }
+            // Throw error where the file is existed but transferring data is incorrect
+            catch(IndexOutOfRangeException error)
+            {
+                Console.WriteLine("Error message is " + error.Message);
+            }
             // Return list of colour
             return list;
         }
